@@ -18,4 +18,9 @@ class ProjectController extends Controller
     ]);
 }
 
+public function show($slug)
+{
+    $project = Project::with('type', 'technologies')->where('slug', $slug)->first();
+}
+
 }
