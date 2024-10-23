@@ -25,3 +25,10 @@ PARTE 3
 nome repo: laravel-auth
 Ciao ragazzi, continuiamo a lavorare nella repo dei giorni scorsi e aggiungiamo un’immagine ai nostri progetti.
 Ricordiamoci di creare il symlink con l’apposito comando artisan e di aggiungere l’attributo enctype="multipart/form-data" ai form di creazione e di modifica!
+
+PART 4
+continuate a lavorare sulle repo dei giorni scorsi implementando l'invio delle mail. Ripercorrete i passaggi visti a lezione, un passo alla volta. Aiutatevi con le slides e la documentazione.
+Bonus 1: Visualizzare i messaggi  di errore.
+Bonus 2: Visualizzare un messaggio di avvenuto invio della mail.
+Bonus 3: Reindirizzare ad una thank you page apposita
+Bonus 4: Personalizzare la mail con altri stili.
